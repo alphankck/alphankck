@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alphankck
 - 👀 I’m interested in ... Gaming,Programming
-- 🌱 I’m currently learning ... CSS, JavaScript, HTML
+- 🌱 I’m currently learning ... CSS, JavaScript, HTML, JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
